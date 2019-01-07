@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542050334 source:c:\users\retr0\desktop\c++\zut\main.cpp
+	<iostream>
+	<math.h>
+
